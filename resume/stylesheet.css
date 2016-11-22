@@ -1,3 +1,6 @@
+body{
+     width:800px;
+}
 h1{
   font-family: Arial;
   color: #546d84;
@@ -5,7 +8,8 @@ h1{
 }
 #one{
   float: right;
-  margin-right: 20px;
+  margin-right:100 px;
   display:inline-block;
 }
+
     
