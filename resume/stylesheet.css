@@ -4,7 +4,6 @@ h1{
   text-align: center;
 }
 #one{
-     margin-left:20px;
-     margin-top:5px;
+  float: right;
 }
     
