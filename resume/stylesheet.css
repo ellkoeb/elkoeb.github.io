@@ -36,4 +36,8 @@ h2{
 #KD{
      float:left;
      margin-top:150px;
+     display:inline-block;
+     border:dashed;2px;
+     padding-left:15px;
+     padding-right:15px
 }
