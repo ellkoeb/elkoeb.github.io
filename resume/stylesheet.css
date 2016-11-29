@@ -15,6 +15,7 @@ h1{
   float: right;
   margin-right:100 px;
   display:inline-block;
+  border:dashed;2px;
 }
 #two{
      display:inline-block;
