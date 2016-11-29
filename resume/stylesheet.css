@@ -9,9 +9,13 @@ h1{
   text-align: center;
 }
 #one{
+  
   float: right;
   margin-right:100 px;
   display:inline-block;
+}
+#two{
+     display:inline-block;
 }
 
     
