@@ -12,7 +12,7 @@ h1{
 }
 #one{
   background-color:#787c82
-  float: right;
+  float:left;
   margin-right:100 px;
   display:inline-block;
   border:dashed;2px;
