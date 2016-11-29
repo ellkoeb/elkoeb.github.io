@@ -18,6 +18,7 @@ h1{
 }
 #two{
      display:inline-block;
+     float:right;
     
 }
 h2{
