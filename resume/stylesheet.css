@@ -1,12 +1,12 @@
 body{
      width:1500px;
      height:1500px;
-     background-color:#878c91;
 }
 h1{
   font-family: Arial;
   color: #546d84;
   text-align: center;
+  font-size:50px;
 }
 #one{
   
@@ -18,5 +18,8 @@ h1{
      display:inline-block;
      
 }
-
+h2{
+     font-size:25px;
+     font-family:bedrock;
+}
     
