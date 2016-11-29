@@ -11,18 +11,21 @@ h1{
   font-size:80px;
 }
 #one{
-      background-color:#787c82
-   background-color:;
+  background-color:#787c82
   float: right;
   margin-right:100 px;
   display:inline-block;
 }
 #two{
      display:inline-block;
-      background-color:#787c82;
+     background-color:#787c82;
 }
 h2{
      font-size:45px;
      font-family:bedrock;
 }
     
+title{
+     background-color:#cfcfd1;
+}
+
