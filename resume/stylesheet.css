@@ -24,6 +24,8 @@ h1{
      display:inline-block;
      float:right;
      border:dashed;2px;
+     padding-left:15px;
+     padding-right:15px
     
 }
 h2{
