@@ -2,12 +2,13 @@ body{
      width:1500px;
      height:1500px;
      background-color:#b4b9c1;
+     font-size:25px;
 }
 h1{
   font-family: Arial;
   color: #546d84;
   text-align: center;
-  font-size:50px;
+  font-size:80px;
 }
 #one{
       background-color:#787c82
@@ -21,7 +22,7 @@ h1{
       background-color:#787c82;
 }
 h2{
-     font-size:25px;
+     font-size:45px;
      font-family:bedrock;
 }
     
