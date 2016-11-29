@@ -19,6 +19,7 @@ h1{
 #two{
      display:inline-block;
      float:right;
+     border:dashed;2px;
     
 }
 h2{
